@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://singsing-si.github.io/getcommonsense.github.io/</id>
+    <title>基本常识</title>
+    <updated>2021-06-17T12:05:25.032Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://singsing-si.github.io/getcommonsense.github.io/"/>
+    <link rel="self" href="https://singsing-si.github.io/getcommonsense.github.io/atom.xml"/>
+    <subtitle>本号不提供凭空想象的科普。</subtitle>
+    <logo>https://singsing-si.github.io/getcommonsense.github.io/images/avatar.png</logo>
+    <icon>https://singsing-si.github.io/getcommonsense.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, 基本常识</rights>
+</feed>
