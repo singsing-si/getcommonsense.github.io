@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" >
 
-<title>标签列表 | 基本常识</title>
+<title>转基因能好怎 | 基本常识</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
@@ -12,13 +12,20 @@
 <link rel="stylesheet" href="https://singsing-si.github.io/getcommonsense.github.io//styles/main.css">
 
 
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
 
 <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 
 
 
-    <meta name="description" content="本号不提供凭空想象的科普。">
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
   </head>
   <body>
     <div id="app" class="main">
@@ -86,12 +93,35 @@
 
       <div class="main-container">
         <div class="content-container" data-aos="fade-up">
-          <h2 class="tag-list-title">标签列表</h2>
-          <div class="tags-container">
+          <div class="post-detail">
+            <h2 class="post-title">转基因能好怎</h2>
+            <div class="post-date">2021-06-19</div>
             
-              <a class="tag" href="https://singsing-si.github.io/getcommonsense.github.io/tag/zgAYp8q_Y/">转基因能好怎</a>
+            <div class="post-content" v-pre>
+              
+            </div>
             
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://singsing-si.github.io/getcommonsense.github.io/post/bei-yue-bing-guo-yan-chan-de-bu-xing-lai-wo-jiao-ni-zuo-~/">
+                  <h3 class="post-title">
+                    被阅兵国宴馋得不行？来，我教你做~
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
           </div>
+
         </div>
       </div>
     </div>
@@ -111,6 +141,29 @@ var app = new Vue({
 </script>
 
 
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: '3a9b233a61509c9e4e4b',
+        clientSecret: '56c58d6e4d4060419bd103926d219487b98c4cb0',
+        repo: 'singsing-si/getcommonsense-gitalk',
+        owner: 'singsing-si',
+        admin: ['singsing-si'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
 
 
 
