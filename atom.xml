@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://singsing-si.github.io/getcommonsense.github.io/</id>
     <title>基本常识</title>
-    <updated>2021-06-19T04:30:25.131Z</updated>
+    <updated>2021-06-19T04:34:37.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://singsing-si.github.io/getcommonsense.github.io/"/>
     <link rel="self" href="https://singsing-si.github.io/getcommonsense.github.io/atom.xml"/>
@@ -10,13 +10,6 @@
     <logo>https://singsing-si.github.io/getcommonsense.github.io/images/avatar.png</logo>
     <icon>https://singsing-si.github.io/getcommonsense.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 基本常识</rights>
-    <entry>
-        <title type="html"><![CDATA[转基因能好怎]]></title>
-        <id>https://singsing-si.github.io/getcommonsense.github.io/post/zhuan-ji-yin-neng-hao-zen/</id>
-        <link href="https://singsing-si.github.io/getcommonsense.github.io/post/zhuan-ji-yin-neng-hao-zen/">
-        </link>
-        <updated>2021-06-19T04:22:26.000Z</updated>
-    </entry>
     <entry>
         <title type="html"><![CDATA[被阅兵国宴馋得不行？来，我教你做~]]></title>
         <id>https://singsing-si.github.io/getcommonsense.github.io/post/bei-yue-bing-guo-yan-chan-de-bu-xing-lai-wo-jiao-ni-zuo-~/</id>
