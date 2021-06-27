@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://singsing-si.github.io/getcommonsense.github.io/</id>
     <title>基本常识</title>
-    <updated>2021-06-27T07:31:43.423Z</updated>
+    <updated>2021-06-27T07:41:12.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://singsing-si.github.io/getcommonsense.github.io/"/>
     <link rel="self" href="https://singsing-si.github.io/getcommonsense.github.io/atom.xml"/>
@@ -383,7 +383,7 @@ Und doch habe ich allein, allein auf mich gestellt ... die ganze Relatitätstheo
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[说明]]></title>
+        <title type="html"><![CDATA[请先看说明]]></title>
         <id>https://singsing-si.github.io/getcommonsense.github.io/post/shuo-ming/</id>
         <link href="https://singsing-si.github.io/getcommonsense.github.io/post/shuo-ming/">
         </link>
