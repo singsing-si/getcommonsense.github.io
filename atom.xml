@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://singsing-si.github.io/getcommonsense.github.io/</id>
     <title>基本常识</title>
-    <updated>2021-06-27T12:47:42.579Z</updated>
+    <updated>2021-06-27T12:51:44.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://singsing-si.github.io/getcommonsense.github.io/"/>
     <link rel="self" href="https://singsing-si.github.io/getcommonsense.github.io/atom.xml"/>
@@ -471,8 +471,9 @@ Und doch habe ich allein, allein auf mich gestellt ... die ganze Relatitätstheo
         <link href="https://singsing-si.github.io/getcommonsense.github.io/post/shuo-ming/">
         </link>
         <updated>2021-06-21T14:55:48.000Z</updated>
-        <content type="html"><![CDATA[<p>本blog为&lt;微信公众号：基本常识&gt;的备份。(不一致处以公众号内容为准)<br>
-本号不提供凭空想象的科普。<br>
+        <content type="html"><![CDATA[<p>本blog为&lt;微信公众号：基本常识&gt;的备份。<br>
+（受限于markdown语法，部分格式内容与原文有细微差别，不一致处以公众号内容为准)</p>
+<p>本号不提供凭空想象的科普。<br>
 作者：项栋梁。</p>
 <p>可点击标签“了解作者”来了解作者。</p>
 <p><strong>如点击目录或标签出现404页面，请先点击首页，再点击目录/标签</strong>。</p>
