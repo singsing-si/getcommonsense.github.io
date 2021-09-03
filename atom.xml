@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://singsing-si.github.io/getcommonsense.github.io/</id>
     <title>基本常识</title>
-    <updated>2021-08-30T12:53:06.494Z</updated>
+    <updated>2021-09-03T11:18:50.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://singsing-si.github.io/getcommonsense.github.io/"/>
     <link rel="self" href="https://singsing-si.github.io/getcommonsense.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://singsing-si.github.io/getcommonsense.github.io/images/avatar.png</logo>
     <icon>https://singsing-si.github.io/getcommonsense.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 基本常识</rights>
+    <entry>
+        <title type="html"><![CDATA[大水冲了龙王庙，YYDS痛批绝绝子]]></title>
+        <id>https://singsing-si.github.io/getcommonsense.github.io/post/da-shui-chong-liao-long-wang-miao-yyds-tong-pi-jue-jue-zi/</id>
+        <link href="https://singsing-si.github.io/getcommonsense.github.io/post/da-shui-chong-liao-long-wang-miao-yyds-tong-pi-jue-jue-zi/">
+        </link>
+        <updated>2021-09-01T11:07:53.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://raw.githubusercontent.com/singsing-si/picbed_picgo/main/223-1.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/singsing-si/picbed_picgo/main/223-2.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/singsing-si/picbed_picgo/main/223-3.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[核酸检测加急半小时出结果到底是真是假？]]></title>
         <id>https://singsing-si.github.io/getcommonsense.github.io/post/he-suan-jian-ce-jia-ji-ban-xiao-shi-chu-jie-guo-dao-di-shi-zhen-shi-jia/</id>
@@ -295,16 +306,6 @@
         <updated>2021-08-16T00:43:24.000Z</updated>
         <content type="html"><![CDATA[<p><img src="https://raw.githubusercontent.com/singsing-si/picbed_picgo/main/214-3.jpg" alt="" loading="lazy"><br>
 <img src="https://raw.githubusercontent.com/singsing-si/picbed_picgo/main/214-4.png" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[保号要紧]]></title>
-        <id>https://singsing-si.github.io/getcommonsense.github.io/post/bao-hao-yao-jin/</id>
-        <link href="https://singsing-si.github.io/getcommonsense.github.io/post/bao-hao-yao-jin/">
-        </link>
-        <updated>2021-08-12T02:20:12.000Z</updated>
-        <content type="html"><![CDATA[<p>很多读者后台询问为什么前两天的文章删除了。是的，我自己删的，因为顶不住压力，保号要紧。 连日来大家在媒体上看到的关于溯源的报道，是一场极其宏大的舆论行动，方向是既定的，力度是空前的，意志是不可阻挡的。可以预见，接下来几周甚至几个月内大家还会继续看到密集的相关报道。 我认为病毒溯源是一个科学问题，应该用科学的方法和原则去开展工作，很遗憾，这个问题大概率永远不会有一个明确的科学结果出现了。言尽于此，接下来不会再就这个话题发表新的评论。很抱歉让大家失望。 另外，为防失联，准备下周开一个备用公众号或其他沟通渠道。弄好了告诉大家，谢谢！<br>
-<img src="https://raw.githubusercontent.com/singsing-si/picbed_picgo/main/213-1.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
