@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://singsing-si.github.io/getcommonsense.github.io/</id>
     <title>基本常识</title>
-    <updated>2021-09-08T11:37:13.144Z</updated>
+    <updated>2021-09-08T11:58:16.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://singsing-si.github.io/getcommonsense.github.io/"/>
     <link rel="self" href="https://singsing-si.github.io/getcommonsense.github.io/atom.xml"/>
@@ -48,6 +48,18 @@
         <updated>2021-09-04T11:32:10.000Z</updated>
         <content type="html"><![CDATA[<p><img src="https://raw.githubusercontent.com/singsing-si/picbed_picgo/main/225-2.jpg" alt="" loading="lazy"><br>
 <img src="https://raw.githubusercontent.com/singsing-si/picbed_picgo/main/225-3.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[未来属于杭州还是成都？]]></title>
+        <id>https://singsing-si.github.io/getcommonsense.github.io/post/wei-lai-shu-yu-hang-zhou-huan-shi-cheng-du/</id>
+        <link href="https://singsing-si.github.io/getcommonsense.github.io/post/wei-lai-shu-yu-hang-zhou-huan-shi-cheng-du/">
+        </link>
+        <updated>2021-09-02T11:49:41.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://raw.githubusercontent.com/singsing-si/picbed_picgo/main/224-1.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/singsing-si/picbed_picgo/main/224-2.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/singsing-si/picbed_picgo/main/224-3.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/singsing-si/picbed_picgo/main/224-4.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
@@ -99,62 +111,6 @@
         <updated>2021-08-23T11:45:29.000Z</updated>
         <content type="html"><![CDATA[<p><img src="https://raw.githubusercontent.com/singsing-si/picbed_picgo/main/219-1.jpg" alt="" loading="lazy"><br>
 <img src="https://raw.githubusercontent.com/singsing-si/picbed_picgo/main/219-2.jpg" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[张文宏的论文犯了什么性质的错？不做科研也能看懂]]></title>
-        <id>https://singsing-si.github.io/getcommonsense.github.io/post/zhang-wen-hong-de-lun-wen-fan-liao-shi-me-xing-zhi-de-cuo-bu-zuo-ke-yan-ye-neng-kan-dong/</id>
-        <link href="https://singsing-si.github.io/getcommonsense.github.io/post/zhang-wen-hong-de-lun-wen-fan-liao-shi-me-xing-zhi-de-cuo-bu-zuo-ke-yan-ye-neng-kan-dong/">
-        </link>
-        <updated>2021-08-20T11:23:17.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://raw.githubusercontent.com/singsing-si/picbed_picgo/main/218-8.jpg" alt="" loading="lazy"></figure>
-<blockquote>
-<p>如果没有论文综述，大家就会重复造轮子。<br>
-如果只有论文综述，科研就只剩下了轮子。</p>
-</blockquote>
-<p>近日围绕张文宏医生的争议中，论文涉嫌抄袭是一个绕不过去的话题。</p>
-<p>反对者认为，张文宏博士学位论文中有3000多字和他人论文雷同，未作引用标注，应该定性为抄袭，属于严重的学术不端。</p>
-<p>支持者认为，雷同的是论文的综述部分，原本就不需要原创，张文宏的标注做得不规范，但算不上抄袭，不是学术诚信问题。</p>
-<p>鉴于绝大多数读者都没有从事科研工作的经验，有必要给大家普及一下论文综述的基础知识。读懂了这篇文章，相信大家在心里会有一个更清晰的判断。</p>
-<p><strong>论文综述是为了避免重复造轮子</strong></p>
-<p>大家可能都听过一些民间发明家的故事，某地农民手工造出一架飞机，某位手工达人又发明了可以在水上骑的自行车……</p>
-<p>从鼓励手工制作的角度来说，我们当然没必要去嘲笑这些简陋的作品，但你非要把这些作品叫做“发明”，并且鼓励这种行为，那就很不合适了。</p>
-<p><img src="https://raw.githubusercontent.com/singsing-si/picbed_picgo/main/218-1.jpg" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/singsing-si/picbed_picgo/main/218-2.jpg" alt="" loading="lazy"><br>
-21世纪“发明”的飞机和水上自行车</p>
-<p>把已经公开上百年的原理和技术重新做一遍，既没有理论的创新，也没有工艺的改良，这种做法，我们管它叫“重复造轮子”。这和专利保护期内探索不同工艺路线的“自主知识产权”是有本质区别的。</p>
-<p>回到学术领域，写科研论文一定要有综述这个部分，最大的原因就是避免重复造轮子。</p>
-<p>综述，就是让你针对研究的这个话题去查询学术界已经发表的论文、书籍、专利等公开资料，看看别人已经做了什么，取得了哪些成果，对于那些还没研究透彻的话题，还要看看学术界有哪些主流的猜想和理论假说。把前人的成果归纳总结下来，就叫做综述。</p>
-<p>简而言之，做综述就是让你先爬到巨人的肩膀上，然后再开始你自己的研究（表演）。</p>
-<p><strong>综述也有技术含量，但不太高</strong></p>
-<p>说到这里，可能会有人把论文综述理解为“抄作业”，那可就低估了综述的技术含量。</p>
-<p>举个例子，同一本金庸写的《天龙八部》，不同的导演以原著为蓝本把这个精彩的故事重新用电视语言讲一遍，主要情节都一样，但效果还是有差别的。</p>
-<p><img src="https://raw.githubusercontent.com/singsing-si/picbed_picgo/main/218-3.jpg" alt="" loading="lazy"><br>
-<img src="https://raw.githubusercontent.com/singsing-si/picbed_picgo/main/218-4.jpg" alt="" loading="lazy"><br>
-基于同一部原著，会拍出不同效果的电视剧</p>
-<p>本科论文的综述更像是把金庸的十四部武侠作品都包含进去，用一部电影的时间给观众展现一个全景的金庸武侠世界。虽然故事主线和人物关系仍然需要忠实原著，但由于要压缩到一部电影的时间，情节取舍就会有所区别，艺术表现手法也会有高下之分。</p>
-<p>而博士论文的综述则会更复杂一些，它可能除了讲述金庸的武侠世界，还要囊括同时代其它武侠大家的作品，这就涉及到了更多的取舍，也更考验写综述之人的眼光。古龙、梁羽生你挑哪一个放进去和金庸并列，黄易的作品算科幻还是武侠，这可并没有绝对的答案。</p>
-<p><strong>这里头的门道，就是综述的技术含量，所以，同一个研究话题，同样的论文数据库，不同研究人员写出的综述是不会完全相同的</strong>。</p>
-<p>但是话又说回来，科研论文其实并没有那么在意你的文字表述功力，那些支线的故事和人物讲还是不讲也无伤大雅，你只要把每部作品的主要人物结局是生是死，男女主角有没有在一起这些交代清楚了，也就算过关。</p>
-<p>所以从这个层面来说，论文综述的技术含量是不高的。</p>
-<p><strong>论文综述的意义所在</strong></p>
-<p>对于研究人员本人来说，论文综述的意义除了避免重复造轮子，还有借鉴前人的研究思路，比较不同研究团队的研究方向哪个更有希望，甚至具体到某个实验仪器买哪家品牌比较好。</p>
-<p>对于审查论文的老师来说，他们也可以根据综述里的内容判断这篇论文的研究成果相对前人有多少创新，取得了多大的进展。答辩的时候可以问问，为什么别人用的那个路线，你要用这个路线……这些都决定着研究人员能不能最终通过答辩取得学位。</p>
-<p><strong>对于其它研究人员和公众来说，他们对这个领域基础情况的了解肯定没有论文作者那么深，甚至完全是零基础，那么通过综述的部分就能快速把握这个话题的概况</strong>。</p>
-<p>所以，除了在研究论文里附上综述的章节之外，还有很多科研人员会专门撰写综述型的论文，或者叫荟萃分析论文来发表。这些综述论文本身没有独创性，并不是作者本人通过实验、调查等得出的成果，但也有一定的学术价值，可以帮助其他研究人员节省时间。张文宏被举报抄袭的那篇论文就属于这一种。</p>
-<p><strong>一篇博士论文的构成</strong></p>
-<p>一篇典型的博士学位论文由目录、摘要、引言、正文、结论、综述等部分组成，其中，文献综述可以放在论文的开头，也可以放在结尾，根据具体情况来定。</p>
-<p><img src="https://raw.githubusercontent.com/singsing-si/picbed_picgo/main/218-5.jpg" alt="" loading="lazy"><br>
-一篇博士学位论文的基本结构</p>
-<p>张文宏被举报的博士学位论文共95页，总字数约7万字，综述部分约1万字，被举报抄袭的部分集中在论文结尾处的综述部分，雷同内容大约为3300字，占综述部分的33%、占到论文整体的4.7%。</p>
-<p><img src="https://raw.githubusercontent.com/singsing-si/picbed_picgo/main/218-6.jpg" alt="" loading="lazy"><br>
-张文宏论文的独创性学术价值</p>
-<p><strong>我尽量用完全客观的语言来概括一下这件事情的梗概</strong>：</p>
-<p>关于异烟肼治疗结核病这个话题，国内外有很多研究团队从不同方面做了研究，发表了成果。</p>
-<p>1998年，黄海南对前人的研究成果做了汇总分析，写成了一篇综述文章发表出来。</p>
-<p>2000年，张文宏在做他的博士毕业论文时，也需要先回顾前人的研究成果。张文宏从黄海南等人的综述文章里摘录了总共约3300字的内容，这些内容里体现了前人的开创性贡献，但没有提及黄海南的总结归纳贡献。</p>
-<p>同时，张文宏通过他自己的科学实验和病例分析等内容原创了约6万字的论文正文。</p>
-<p>整件事情大概就是这样，在等待复旦大学调查结论的同时，大家可以在心里对这件事的性质做出一个自己的主观判断。</p>
 ]]></content>
     </entry>
 </feed>
